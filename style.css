@@ -1,5 +1,5 @@
 body {
-    background: #096d78;
+    background: #77f3f3;
     }
   
   .container {
@@ -31,7 +31,7 @@ body {
     cursor: pointer;
     display: block;
     position: relative;
-    background-color: #676264;
+    background-color: #200491;
     padding: 20px 80px;
     margin: 0 auto;
     border-radius: 20px;
@@ -57,3 +57,13 @@ body {
     box-shadow: none;
     top: 6px; 
   } 
+ .mi_footer{
+    background-color: rgb(28, 42, 193);
+    color: #fff;
+    padding: 20px;
+    text-align: center;
+ }
+
+ .mi_footer h1{
+    font-size: x-large;
+ }
